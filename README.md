@@ -1,66 +1,45 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Introduction: 
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+HappyArts is a service where artists create digital art, and we curate and mint them using our smart contracts. 
 
-## About Laravel
+We offer tools and resources to help artists better understand and utilize blockchain and decentralized platforms, and promote the integration of these technologies within the arts community.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+We empower local artists and help them reach new audiences and achieve greater success by providing a comprehensive and supportive platform for them to showcase their work, connect with fans and customers, and grow their careers using the latest web3 technologies.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Vision:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Create a thriving online community for local artists where they can share, sell, and promote their work using the latest web3 technologies. 
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## Mission:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+To provide a comprehensive and supportive platform for local artists to showcase their work, connect with fans and customers, and grow their careers using the latest web3 technologies.
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
-## Contributing
+## Long-time success plan:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+We have several strategies to ensure the project's long-term success, including collaboration with stakeholders, user-centered design, robust technology, and a sustainable revenue model. By working closely with artists and other stakeholders, we can understand their needs and deliver a positive experience. We prioritize user experience when developing the project, making it as intuitive and accessible as possible for our targeted user profile of local artists with limited or no Web3 knowledge. We ensure that the technology behind the project is robust and scalable to accommodate future growth and meet artists’ needs.
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## User Experience:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+The HappyArts User Experience Project's sustainability plan in Web3 involves several strategies to ensure the project’s long-term success. These strategies include:
+
+Collaboration with stakeholders: HappyArts works closely with artists and other stakeholders to understand their needs and ensure that the project delivers a positive experience.
+
+User-centred design: HappyArts prioritizes user experience when developing the project, making it as intuitive and accessible as possible for its targeted user profile (local artists with limited or no Web3 knowledge).
+
+Robust technology: HappyArts ensures that the technology behind the project is robust and scalable to accommodate future growth and meet artists’ needs.
+
+Sustainable revenue model: HappyArts will take advantage of Canto’s CSR, establishing a sustainable revenue model that supports the ongoing maintenance and development of the project, such as advertising artists’ works and engaging with Canto’s community.
+
+The HappyArts User Experience (UX) Project will present itself as intuitive and understandable for its targeted user profile by using clear and simple language, engaging visuals, and user-friendly design. It will be designed to minimize user frustration and maximize ease of use. We are taking into consideration some existing Web3 examples (without mirroring or copying them) to mimic a similar already successful experience to the art community (i.e. SuperRare and Foundation)
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Happy Arts repo is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
